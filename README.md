@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shubham Choudhary and I'm a computer science student, from India (Currently Living In Germany)</p>
+<p align="left">My name is Shubham Choudhary and I'm a computer science student, from India</p>
 
 ###
 
