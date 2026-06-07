@@ -17,7 +17,6 @@
 ## 🙋‍♂️ About Me
 
 - ✨ Creating bugs since **2022**
-- 📚 Currently learning **German** 🇩🇪
 - 🎯 Goals: Live somewhere cold & speak fluent German
 - 🎲 Fun fact: I play multiple multiplayer games
 
