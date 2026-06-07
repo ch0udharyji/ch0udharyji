@@ -78,16 +78,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![ch0udharyji trophies](https://github-profile-trophy.vercel.app/?username=ch0udharyji&theme=flat&row=2&column=6&no-bg=true)
-
-</div>
-
----
-
 <div align="center">
 <sub>Made with ❤️</sub>
 </div>
