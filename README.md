@@ -1,59 +1,62 @@
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ch0udharyji)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ch0udharyjiX)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham.choudhary.contact@gmail.com)
+# Shubham Choudhary
 
----
+**Computer Science Student · India**
 
-# Hey, I'm Shubham Choudhary 👋
-
-**Computer Science Student · India 🇮🇳**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ch0udharyji)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ch0udharyjiX)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubham.choudhary.contact@gmail.com)
 
 </div>
 
----
+<br>
 
-## 🙋‍♂️ About Me
+## About
 
-- ✨ Creating bugs since **2022**
-- 🎯 Goals: Live somewhere cold & speak fluent German
-- 🎲 Fun fact: I play multiple multiplayer games
+Computer Science student focused on backend development, systems programming, and building reliable software. Interested in distributed systems and infrastructure tooling.
 
----
+<br>
 
-## 🛠️ I Code With
+## Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" valign="top"><b>Languages</b></td>
+    <td align="center" valign="top"><b>Frameworks & Tools</b></td>
+    <td align="center" valign="top"><b>Databases</b></td>
+    <td align="center" valign="top"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/><br>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/><br>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/><br>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br>
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-## 🧩 LeetCode
+## LeetCode
 
 <div align="center">
 
@@ -61,22 +64,21 @@
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ch0udharyji&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.shion.dev/api?username=ch0udharyji&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ch0udharyji&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ch0udharyji&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ch0udharyji&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=ch0udharyji&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
-<sub>Made with ❤️</sub>
+<sub>© 2026 Shubham Choudhary</sub>
 </div>
