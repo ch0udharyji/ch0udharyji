@@ -1,20 +1,6 @@
-<div align="center">
-
-# Shubham Choudhary
-
-**Computer Science Student · India**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ch0udharyji)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ch0udharyjiX)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubham.choudhary.contact@gmail.com)
-
-</div>
-
-<br>
-
 ## About
 
-Computer Science student focused on backend development, systems programming, and building reliable software. Interested in distributed systems and infrastructure tooling.
+I'm a Computer Science student based in India, focused on backend development, systems programming, and building reliable software. Interested in distributed systems and infrastructure tooling.
 
 <br>
 
@@ -80,5 +66,12 @@ Computer Science student focused on backend development, systems programming, an
 <br>
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ch0udharyji)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ch0udharyjiX)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.choudhary.contact@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ch0udharyji.com-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ch0udharyji.com)
+
 <sub>© 2026 Shubham Choudhary</sub>
+
 </div>
